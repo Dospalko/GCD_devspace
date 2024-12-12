@@ -1,2 +1,2 @@
 # GCD_devspace
-Kodenie stranky
+Kodenie stranky a vytvaranie dizajnu
